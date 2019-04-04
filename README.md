@@ -3,3 +3,7 @@
 
 
 On terminal run passwdlocker.py email
+
+notice that password related to that account is automatically copied to clipboard ,by just simply running the above python script.
+
+now you can paste it anywhere . 

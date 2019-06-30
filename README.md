@@ -2,7 +2,8 @@
  python code to manage accounts &amp; passwords(or any relevant data) locally on your machine
 
 
-On terminal run passwdlocker.py email
+On terminal 
+>>passwdlocker.py email
 
 notice that password related to that account is automatically copied to clipboard ,by just simply running the above python script.
 
